@@ -1,0 +1,49 @@
+body{
+    background-color: papayawhip;
+}   
+
+.header_div{
+    background-color: white;
+}
+
+h1{
+    color:red;
+    font-family: 'Merriweather', serif;
+    text-shadow: 0.5px  0.5px  40px  black; 
+}
+
+h4{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#start{
+    background-color: yellow;
+    color: green;
+    width:70px;
+    height: 40px;
+    font-size: large;
+}
+
+#hear{
+    font-size: large;
+    font-family: 'Anton', sans-serif;
+}
+
+#Accuracy{
+    font-size: large;
+    font-family: 'Anton', sans-serif;
+}
+
+.bottom_div{
+    background-color: white;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    font-size: larger;
+    font-family: 'Kavoon', cursive;
+    line-height: 2.5;
+    font-weight: 700;
+    text-shadow: 1px  1px  40px  red; 
+    letter-spacing:3;
+}
